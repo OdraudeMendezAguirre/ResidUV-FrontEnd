@@ -1,0 +1,15 @@
+.portada img{
+    width: 90vw;
+}
+
+.btn-blue{
+    background-color: #295196;
+}
+
+.btn-blue:hover{
+    background-color: #1c3766;
+}
+
+.mymt{
+    margin-top: 80px;
+}
